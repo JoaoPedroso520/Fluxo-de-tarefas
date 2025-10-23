@@ -27,8 +27,7 @@ export default function App() {
 
   return (
     <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center p-6">
-      <h1 className="text-3xl font-bold mb-4">🧭 Fluxo de tarefasgit init
-</h1>
+      <h1 className="text-3xl font-bold mb-4">🧭 Fluxo de tarefasgit</h1>
       <div className="flex gap-2 mb-4">
         <input
           value={text}
